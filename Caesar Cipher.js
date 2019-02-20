@@ -1,4 +1,4 @@
-function caesarCipher(str,shift) { // LBH QVQ VG!
+function caesarCipher(str,shift) {
     let shiftedStr = "";
     let caesarShift = shift;
     let dir = Math.sign(shift);
